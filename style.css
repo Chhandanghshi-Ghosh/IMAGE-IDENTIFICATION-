@@ -1,0 +1,68 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f5dbda;
+}
+
+.logo_div{
+    background-color: white;
+    color: #000;
+}
+.logo_div img{
+    width: 100px;
+}
+
+.webcam_div{
+    background-color: #ffd2c7;
+    padding: 10px;
+    border: 3px solid white;
+    margin-top: 15px;
+}
+
+.webcam_div label{
+    background-color: white;
+    padding: 10px;
+    box-shadow: 5px 5px 18px white;
+    margin-bottom: 0px;
+    width: 310px;
+}
+
+.webcam_div button{
+    background-color: rgb(56, 243, 56);
+    box-shadow: 5px 5px 18px white;
+    width: 310px;
+    font-size: 16px;
+    border: 1px solid;
+}
+
+#bulb{
+    width: 70px;
+}
+
+.footer_div{
+    margin-bottom:60px ;
+}
+
+.footer_div h4{
+    background-color: white;
+    box-shadow:5px 5px 18px white;
+    border-radius: 10px;
+    
+}
+
+#camera #s{
+    border: pink;
+    bottom: 0;
+    width: 100%;
+
+}
+
+.footer{
+    position: fixed;
+    color: black;
+    background-color: rgb(236, 98, 119);
+    bottom:0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
